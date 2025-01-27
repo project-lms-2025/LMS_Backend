@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/project-lms-2025/LMS_Backend#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^2.48.1",
+    "bcrypt": "^5.1.1",
     "express": "^4.21.2",
+    "express-validator": "^7.2.1",
     "vercel": "^39.3.0"
   }
 }
