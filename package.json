@@ -1,0 +1,24 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-lms-2025/LMS_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-lms-2025/LMS_Backend/issues"
+  },
+  "homepage": "https://github.com/project-lms-2025/LMS_Backend#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "vercel": "^39.3.0"
+  }
+}
